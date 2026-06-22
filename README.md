@@ -27,16 +27,6 @@ The pretrained HyperSL weights can be downloaded from the official HyperSL relea
 * HuggingFace: https://huggingface.co/WeilKon/HyperSL/tree/main
 
 
-### Training Dataset
-
-The HyperSL pretraining dataset can be downloaded from:
-
-* Baidu Netdisk: https://pan.baidu.com/s/1YP_OMkAf4LytjyowQBq9JQ
-  Extraction Code: `tw7g`
-
-* HuggingFace: https://huggingface.co/WeilKon/HyperSL/tree/main
-
-For downstream few-shot classification experiments, please prepare the corresponding hyperspectral classification datasets following the instructions in the code.
 
 ## Citation
 
